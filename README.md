@@ -1,6 +1,6 @@
 # MechanicalRepairsSimulator
 
-This project was implemented using procedural programming.
+This project was implemented using procedural programming. I received an 100% on this project at University.
 
 This program is used to simulate the process of the mechanical repairs.The “claims.txt” and “mechanics.txt” file saves the information from individual claim and mechanic, respectively.
 
