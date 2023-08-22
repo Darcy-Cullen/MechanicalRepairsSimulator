@@ -13,3 +13,5 @@ fails if no trials (mechanics) are successful in the list, and it will consider 
 
 Once the program is compiled into the executable say ABC, it should run something like follows:
 $ /ABC claims.txt mechanics.txt output.txt
+
+compile on codeblocks
